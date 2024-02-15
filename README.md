@@ -9,10 +9,11 @@ Deep Learning for Computer Vision-UIUC-CS course assignments
 
 [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
 
+### Models
   * Logistic Regression
 
-  * Perceptron
+  * Perceptron: binary / multi-class
 
-  * SVM
+  * SVM: binary / multi-class
 
-  * Softmax
+  * Softmax: binary / multi-class
