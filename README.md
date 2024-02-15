@@ -27,6 +27,8 @@ Deep Learning for Computer Vision-UIUC-CS course assignments
 
   * SGD Batch Size
 
+  * Stable Softmax: avoid overflow
+
   * Dataset Standardization: center data and scale down by maximum
 
 ### Test Accuracy (Kaggle Fashion-MNIST)
