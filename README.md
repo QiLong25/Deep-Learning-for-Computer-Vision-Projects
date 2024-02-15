@@ -17,3 +17,22 @@ Deep Learning for Computer Vision-UIUC-CS course assignments
   * SVM: binary / multi-class
 
   * Softmax: binary / multi-class
+
+### Experiments
+  * Learning Rate: learning rate decay strategy
+
+  * Training Epochs: early stop
+
+  * Regularization Constant
+
+  * SGD Batch Size
+
+  * Dataset Standardization: center data and scale down by maximum
+
+### Test Accuracy (Kaggle Fashion-MNIST)
+  * Perceptron: 0.8182 (above baseline)
+
+  * SVM: 0.8137 (above baseline)
+
+  * Softmax: 0.8303 (above baseline)
+
