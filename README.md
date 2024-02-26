@@ -38,3 +38,8 @@ Deep Learning for Computer Vision-UIUC-CS course assignments
 
   * Softmax: 0.8303 (above baseline)
 
+## MP2
+
+![titanic](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/479755cd-21fc-4d09-81a6-5a4458bdfb9b)
+
+
