@@ -79,14 +79,14 @@ https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/57e2cbf1-4ce2-4
 
 ####  **Optimizer & Mappings**:
  *  SGD:
-![low-SGD-img](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/baec1093-707b-4304-8b67-eef775646c79)
-
 ![low-SGD-plot](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/c531e541-3ee8-4038-ac84-23babb067aaa)
 
- *  ADAM:
-![low-Adam-img](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/0d2a3539-3fe9-4909-bea0-434213f647be)
+![low-SGD-img](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/baec1093-707b-4304-8b67-eef775646c79)
 
+ *  ADAM:
 ![low-Adam-plot](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/750bc8da-80e2-4a27-904a-c7eeccec7eb0)
+
+![low-Adam-img](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/0d2a3539-3fe9-4909-bea0-434213f647be)
 
 ####  **High Resolution**:
  *  None:
@@ -95,14 +95,14 @@ https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/57e2cbf1-4ce2-4
 ![spiral-none-img](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/25fb0d04-bc34-45cf-a3c9-b2a03c696e56)
 
  *  Basic:
-![spiral-basic-img](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/cefd6db0-35c0-4e08-9150-9749ccc17052)
-
 ![spiral-basic-plot](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/c3d708a0-9dbc-411d-a99a-252d49c39483)
 
- *  Fourier (Gaussian):
-![spiral-fourier-img](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/6e65c220-6a14-4f70-967e-3310b6b7166b)
+![spiral-basic-img](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/cefd6db0-35c0-4e08-9150-9749ccc17052)
 
+ *  Fourier (Gaussian):
 ![spiral-fourier-plot](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/89ded132-58e9-4bf0-a228-06bd43d8452b)
+
+![spiral-fourier-img](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/6e65c220-6a14-4f70-967e-3310b6b7166b)
 
 #### **Number of Layers**.
 
