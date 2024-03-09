@@ -40,7 +40,7 @@ Deep Learning for Computer Vision-UIUC-CS course assignments
 
 ## MP2: Multi-Layer Neural Networks
 
-[Image Reconstruction]([https://www.kaggle.com/datasets/mssmartypants/rice-type-classification](https://bmild.github.io/fourfeat/)https://bmild.github.io/fourfeat)
+[Image Reconstruction]([https://www.kaggle.com/datasets/mssmartypants/rice-type-classification])
 
 https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/a9d60fef-a049-45b6-b87f-515d37e43ca6
 
