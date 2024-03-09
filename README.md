@@ -42,9 +42,7 @@ Deep Learning for Computer Vision-UIUC-CS course assignments
 
 [Image Reconstruction]([https://www.kaggle.com/datasets/mssmartypants/rice-type-classification](https://bmild.github.io/fourfeat/)https://bmild.github.io/fourfeat)
 
-https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/a9d60fef-a049-45b6-b87f-515d37e43ca6
-
-https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/57e2cbf1-4ce2-44c6-9969-0b9f7143f813
+https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/a9d60fef-a049-45b6-b87f-515d37e43ca6 https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/57e2cbf1-4ce2-44c6-9969-0b9f7143f813
 
 ### Multi-Layer Neural Networks From Scratch
 
