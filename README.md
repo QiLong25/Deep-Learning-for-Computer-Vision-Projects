@@ -120,6 +120,93 @@ https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/57e2cbf1-4ce2-4
 
 *See Report.pdf for Further Details*
 
+## MP3.1: Self-supervised & Transfer Learning
+
+[CIFAR10](https://en.wikipedia.org/wiki/CIFAR-10)
+
+[ImageNette](https://github.com/fastai/imagenette)
+
+### Self-supervised Learning: Rotation Prediction
+
+ *  Test Accuracy = 78.92%
+
+### Finetune: Image classification, only last layers (layer4, fc)
+
+ *  Pretrained Model: ResNet18 on **Rotation Prediction** task, Test Accuracy = 68.16%.
+
+ *  Random-init Model: ResNet18 with weights initialized randomly, Test Accuracy = 44.45%.
+
+### Fully Supervised Learning: Image classification
+
+ *  Pretrained Model: ResNet18 on **Rotation Prediction** task, Test Accuracy = 84.35%.
+
+ *  Random-init Model: ResNet18 with weights initialized randomly, Test Accuracy = 84.47%.
+
+### Experiment on Accuracy-Sample
+
+ *  Setup: large unlabelled dataset with a small amount of labeled data available.
+
+ *  **RotNet**: Pretrain on **whole dataset** + Finetune (last layers) on **partial dataset**.
+
+ *  **Supervised Model**: Fully Supervised Learning on **partial dataset**.
+
+![EC1_plot](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/bbd96558-5590-4352-acca-2842ebb68d25)
+
+### More Advanced Model: Try ResNet50
+
+ *  Pretrain Test Accuracy = 79.33%.
+
+ *  Finetune Test Accuracy = 76.13%.
+
+### Larger Dataset: Try ImageNette
+
+ *  Pretrain Test Accuracy = 59.75%.
+
+ *  Finetune Test Accuracy = 75.69%.
+
+## MP3.2: Object Detection - YOLO
+
+[PASCAL VOC 2007](http://host.robots.ox.ac.uk/pascal/VOC/voc2007)
+
+### Loss: Implement from scratch
+
+ *  Setup: ResNet50, epochs=50.
+
+ *  Final Train Loss: 1.751
+ 
+ *  **Test MAP**: 0.50013
+
+![yolo_image](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/e0357f62-2b7a-4e70-9657-0b846f0298a1)
+
+### Video Object Detection
+
+https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/95a042ae-4c09-46df-b98e-72003fb7676d
+
+### Better Pretrained Model
+
+ *  Setup: ResNet101, epochs=50.
+
+ *  Final Train Loss: 1.544
+
+ *  **Test MAP**: 0.52478
+
+![yolo_image_2](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/fa757032-6d35-4ede-9fd5-19f528abba47)
+
+*See Report.pdf for Further Details*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
