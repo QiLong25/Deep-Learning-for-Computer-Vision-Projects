@@ -180,7 +180,7 @@ https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/57e2cbf1-4ce2-4
 
 ### Video Object Detection
 
-![Video Source](https://www.youtube.com/watch?v=xZGahvrep3o)
+[Video Source](https://www.youtube.com/watch?v=xZGahvrep3o)
 
 https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/95a042ae-4c09-46df-b98e-72003fb7676d
 
