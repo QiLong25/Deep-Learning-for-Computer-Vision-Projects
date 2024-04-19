@@ -196,6 +196,33 @@ https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/95a042ae-4c09-4
 
 *See Report.pdf for Further Details*
 
+## MP4: Generative Adversarial Models
+
+![GAN_cat](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/e81d3157-e228-4d06-9619-b11f6f9c0e8f)
+![LSGAN_cat](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/d723ad60-8bbb-445b-a4b8-44aaf3dc0c02)
+
+### GAN Implementation
+
+ *  **Loss Function**: discriminator & generator. BCE loss & Least Square Loss (LSGAN)
+
+ *  **Model**: discriminator (LeakyReLu(0.2)) & generator (transposeed convolution, tanh for output).
+
+ *  **Training Process**: sample noise for generator, real and fake image for discriminator.
+
+### Improvements
+
+ *  **WGAN Loss**: prevent vanishing gradient, make training more stable.
+
+ *  **Spectral Normalization**: higher image quality.
+
+### Other Experiments
+
+ *  **Dog Face**: [dataset](https://www.kaggle.com/datasets/andrewmvd/animal-faces/data).
+
+![ec3_output1](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/1e38d961-e1dc-4c70-b192-bb9a3ed4f6e4)![ec3_output2](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/0782e173-e791-44bd-bace-3d2178dcdc3c)
+
+
+
 
 
 
