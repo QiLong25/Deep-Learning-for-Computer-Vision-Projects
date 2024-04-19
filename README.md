@@ -198,6 +198,10 @@ https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/95a042ae-4c09-4
 
 ## MP4: Generative Adversarial Models
 
+![GAN_MNIST](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/0484a19b-0adc-4140-b36c-aea15a534a51)
+![LSGAN_MNIST](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/2c1ddb92-6126-4754-ad41-9cb0c5423f33)
+
+
 ![GAN_cat](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/e81d3157-e228-4d06-9619-b11f6f9c0e8f)
 ![LSGAN_cat](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/d723ad60-8bbb-445b-a4b8-44aaf3dc0c02)
 
