@@ -216,6 +216,43 @@ https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/95a042ae-4c09-4
 
 ![ec3_output1](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/1e38d961-e1dc-4c70-b192-bb9a3ed4f6e4)![ec3_output2](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/0782e173-e791-44bd-bace-3d2178dcdc3c)
 
+## MP5: Deep Reinforcement Learning
+*OpenAI Gym-Atari*
+
+https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/cabb9b9c-df43-4892-8ea0-9339dad4f8b9
+
+ *  **Simulator**: Interation with environment using **epsilon greedy policy**, input frame to deep network to get action.
+
+ *  **Replay Memory Buffer**: Store thousands of state-action-reward-next_state groups before updating policy network. During training, both updating replay buffer and network.
+
+### Deep Q-Network
+
+ *  **DQN**: Update Policy Nework directly, one-step boostrap.
+
+![breakout_dqn_0](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/e10ec61c-22d3-46de-9e69-c8e98f2b873b)
+
+ *  **Double DQN**: Update network with fixed boostrap target and copy it to policy network every few epochs.
+
+![breakout_double_dqn](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/fb1b2c73-0814-4169-b468-4d1b4ba7c097)
+
+ *  **LSTM DQN**: Instead of input several frames as one state represention, input frames together and pass throught LSTM model sequentially.
+
+![breakout_dqn_lstm](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/31515e60-1b01-4a7a-b9fe-584b4ddc91b3)
+
+### More Experiments: Demon Attack
+
+https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/412e1b55-c731-44f2-b7d3-32081c6584d5
+
+
+
+
+
+
+
+
+
+
+
 
 
 
