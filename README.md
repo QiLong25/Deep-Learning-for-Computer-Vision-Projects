@@ -1,10 +1,10 @@
-# Computer-Vision-MPs
+# Computer-Vision-Projects
 Deep Learning for Computer Vision-UIUC-CS course assignments
 
 ![DALLE_best](https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/8bd17801-3086-48a6-8155-01726b019bb0)
 
 
-## MP1: Linear classifiers
+## Project 1: Image Classifiers
 [Rice Dataset](https://www.kaggle.com/datasets/mssmartypants/rice-type-classification)
 
 [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
@@ -38,7 +38,7 @@ Deep Learning for Computer Vision-UIUC-CS course assignments
 
   * Softmax: 0.8303 (above baseline)
 
-## MP2: Multi-Layer Neural Networks
+## Project: Image Reconstruction
 
 [Image Reconstruction](https://bmild.github.io/fourfeat/)
 
@@ -111,7 +111,7 @@ https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/57e2cbf1-4ce2-4
 
 *See Report.pdf for Further Details*
 
-## MP3.1: Self-supervised & Transfer Learning
+## Project 3: Object Detection
 
 [CIFAR10](https://en.wikipedia.org/wiki/CIFAR-10)
 
@@ -121,7 +121,7 @@ https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/57e2cbf1-4ce2-4
 
  *  Test Accuracy = 78.92%
 
-### Finetune: Image classification, only last layers (layer4, fc)
+### Transfer Learning: Image classification, only last layers (layer4, fc)
 
  *  Pretrained Model: ResNet18 on **Rotation Prediction** task, Test Accuracy = 68.16%.
 
@@ -155,11 +155,9 @@ https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/57e2cbf1-4ce2-4
 
  *  Finetune Test Accuracy = 75.69%.
 
-## MP3.2: Object Detection - YOLO
+### YOLO Loss: Implement from scratch
 
 [PASCAL VOC 2007](http://host.robots.ox.ac.uk/pascal/VOC/voc2007)
-
-### Loss: Implement from scratch
 
  *  Setup: ResNet50, epochs=50.
 
@@ -187,7 +185,7 @@ https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/95a042ae-4c09-4
 
 *See Report.pdf for Further Details*
 
-## MP4: Generative Adversarial Models
+## Project 4: Generative Adversarial Models
 
 ![GAN_MNIST](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/0484a19b-0adc-4140-b36c-aea15a534a51)
 ![LSGAN_MNIST](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/2c1ddb92-6126-4754-ad41-9cb0c5423f33)
@@ -216,7 +214,7 @@ https://github.com/QiLong25/Computer-Vision-MPs/assets/143149589/95a042ae-4c09-4
 
 ![ec3_output1](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/1e38d961-e1dc-4c70-b192-bb9a3ed4f6e4)![ec3_output2](https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/0782e173-e791-44bd-bace-3d2178dcdc3c)
 
-## MP5: Deep Reinforcement Learning
+## Project 5: Deep Reinforcement Learning for AI Video Game Players
 *OpenAI Gym-Atari*
 
 https://github.com/QiLong25/Deep-Learning-for-Computer-Vision-MPs/assets/143149589/cabb9b9c-df43-4892-8ea0-9339dad4f8b9
